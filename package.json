@@ -1,6 +1,6 @@
 {
   "name": "ms-to",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert milliseconds to other formats",
   "license": "MIT",
   "repository": "kevva/ms-to",
