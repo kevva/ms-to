@@ -1,0 +1,33 @@
+{
+  "name": "ms-to",
+  "version": "0.0.0",
+  "description": "Convert milliseconds to other formats",
+  "license": "MIT",
+  "repository": "kevva/ms-to",
+  "author": {
+    "name": "Kevin Martensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "convert",
+    "ms",
+    "parse"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
