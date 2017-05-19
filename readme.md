@@ -39,6 +39,11 @@ Type: `number`
 Value in milliseconds to convert.
 
 
+## Related
+
+[parse-ms](https://github.com/sindresorhus/parse-ms) - Parse milliseconds into an object
+
+
 ## License
 
 MIT © [Kevin Martensson](http://github.com/kevva)
